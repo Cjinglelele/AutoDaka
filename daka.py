@@ -142,7 +142,7 @@ class AutoDaka:
 
         print("正在识别验证码")
         # 输入chaojiying的用户名，密码和软件ID
-        chaojiying = Chaojiying_Client('kalival', 'mlz123123', '928325')
+        chaojiying = Chaojiying_Client('Cjingle', 'Cjl20021031', '933271')
         dic = chaojiying.PostPic(img, 1902)
         verify_code = dic['pic_str']
 
