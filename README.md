@@ -12,6 +12,8 @@
 利用github action 实现自动健康打卡，
 针对验证码版本开发，适用于最新版的打卡系统
 
+<img width="300" src="https://user-images.githubusercontent.com/85838942/167908824-4f1b1495-6032-493c-9765-0838ac74699b.jpeg">
+
 
 ## 写在前面
 钉钉机器人推送代码来自[Dimlitter](https://github.com/Dimlitter)同学
@@ -56,6 +58,8 @@ DD_BOT_SECRET ：钉钉机器人的加签密钥
 
      - 手机版钉钉 > 右上角添加 > 面对面建群 > 创建之后得到只有你一个人的群聊
      - 电脑版钉钉 > 群设置 > 智能群助手 > 添加机器人 > 自定义，名字随便填
+     
+     ！！！注意： 机器人类型是自定义，不是github，敲黑板！
      
    - 获取上述的token和secret
    
